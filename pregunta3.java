@@ -14,6 +14,7 @@ class pregunta3 {
     }
 
     static void burbuja(int arreglo[], int n) {
+        
         // Caso base
         if (n == 1)
             return;
