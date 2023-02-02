@@ -35,7 +35,7 @@ class pregunta3 {
         burbuja(arreglo, n - 1);
     }
 
-    // Función para imprimir el arreglo
+    // Funcion para imprimir el arreglo
     static void imprimir(int arreglo[]) {
         int n = arreglo.length;
         for (int i = 0; i < n; ++i)
