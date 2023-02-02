@@ -1,4 +1,4 @@
-//* ¿Haz hecho alguna vez un algoritmo para un programa? ¿Qué hacía? ¿Era correcto y eficiente?
+//* Haz hecho alguna vez un algoritmo para un programa? Qué hacia? Era correcto y eficiente?
 
 
 //codigo de java para el algoritmo de ordenamiento de burbuja de la forma recursiva 

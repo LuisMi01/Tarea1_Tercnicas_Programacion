@@ -1,4 +1,4 @@
-//* ¿Qué algoritmos crees que usan por tus juegos y aplicaciones favoritas?
+//* Que algoritmos crees que usan por tus juegos y aplicaciones favoritas?
 
 //codigo de java 
 
